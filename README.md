@@ -9,7 +9,7 @@
 - 🌱 **Currently Learning**: **Java, Spring Boot, Docker**  
 - 💼 **Profession**: **Backend Developer**  
 - 🛠️ **Tech Stack**: **Java, Docker, Kubernetes, Hibernate, SQL**  
-- 🌐 **Languages**: English, Russian,Kyrgyz
+- 🌐 **Languages**: Russian, Kyrgyz
 - ⚡ **Hobbies**: Solving algorithms, exploring AI, and reading books.  
 
 ---
