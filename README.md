@@ -1,9 +1,4 @@
 # 👋 Привет! Я [Бексултан]
-
-![Header](https://example.com/your-header-image.png)
-
----
-
 ## 🌟 Обо мне
 
 - 🌱 Сейчас я изучаю: **Java, Spring Boot, Docker**
