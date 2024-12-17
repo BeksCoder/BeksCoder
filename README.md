@@ -9,11 +9,6 @@ I'm a Java developer with a passion for clean code and problem-solving. I enjoy 
 - **Tools**: Maven, Gradle, Docker, Git, Jenkins
 - **Databases**: MySQL, PostgreSQL, MongoDB
 
-## Projects
-- **[Java Algorithms](link)**: A collection of Java algorithms and data structures.
-- **[Spring Boot E-Commerce](link)**: A simple e-commerce application using Spring Boot and Thymeleaf.
-
-## Learning
 Currently diving into:
 - Java 17 new features
 - Microservices architecture with Spring Cloud
