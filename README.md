@@ -1,10 +1,10 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm [Sultan] 👋
 
 ## About Me
 I'm a Java developer with a passion for clean code and problem-solving. I enjoy building robust, scalable applications and contributing to the open-source community.
 
 ## Skills
-- **Programming Languages**: Java, Kotlin
+- **Programming Languages**: Java
 - **Frameworks**: Spring Boot, Hibernate, JavaFX
 - **Tools**: Maven, Gradle, Docker, Git, Jenkins
 - **Databases**: MySQL, PostgreSQL, MongoDB
@@ -19,9 +19,8 @@ Currently diving into:
 - Microservices architecture with Spring Cloud
 
 ## Contact Me
-- [LinkedIn](your-linkedin)
-- [Twitter](your-twitter)
-- Email: your-email@example.com
+- [LinkedIn](Sultan Isaev)
+- Email: beksons1@gmail.com
 
 
 ---
