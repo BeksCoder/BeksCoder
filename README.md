@@ -1,49 +1,28 @@
-# 👋 Hi there! I'm [Beksultan]  
+# Hello, I'm [Your Name] 👋
 
-![Header](https://images.unsplash.com/photo-1517245386807-bb43f82c33c4)  
+## About Me
+I'm a Java developer with a passion for clean code and problem-solving. I enjoy building robust, scalable applications and contributing to the open-source community.
 
----
+## Skills
+- **Programming Languages**: Java, Kotlin
+- **Frameworks**: Spring Boot, Hibernate, JavaFX
+- **Tools**: Maven, Gradle, Docker, Git, Jenkins
+- **Databases**: MySQL, PostgreSQL, MongoDB
 
-## 🌟 About Me  
+## Projects
+- **[Java Algorithms](link)**: A collection of Java algorithms and data structures.
+- **[Spring Boot E-Commerce](link)**: A simple e-commerce application using Spring Boot and Thymeleaf.
 
-- 🌱 **Currently Learning**: **Java, Spring Boot, Docker**  
-- 💼 **Profession**: **Backend Developer**  
-- 🛠️ **Tech Stack**: **Java, Docker, Kubernetes, Hibernate, SQL**  
-- 🌐 **Languages**: Russian, Kyrgyz
-- ⚡ **Hobbies**: Solving algorithms, exploring AI, and reading books.  
+## Learning
+Currently diving into:
+- Java 17 new features
+- Microservices architecture with Spring Cloud
 
----
+## Contact Me
+- [LinkedIn](your-linkedin)
+- [Twitter](your-twitter)
+- Email: your-email@example.com
 
-## 🛠️ Technical Skills  
-
-### Programming Languages  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-
-### Backend Frameworks  
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)  
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)  
-
-### Databases  
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)  
-
-### DevOps & Tools  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-
-### Frontend Basics  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-
----
-
-## 📈 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BeksCoder&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BeksCoder&layout=compact&theme=radical)  
-
-### 🐍 Contribution Snake  
-![Snake Animation](https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
