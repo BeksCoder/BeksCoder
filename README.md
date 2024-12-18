@@ -22,6 +22,6 @@ Currently diving into:
 
 ## 🌍 Where to Find Me  
 
-- 💬 **Telegram**: [@yourusername](https://t.me/SultanXxOne)  
+- 💬 **Telegram**: (https://t.me/SultanXxOne)  
 - 📧 **Email**: beksons1@gmail.com
 
