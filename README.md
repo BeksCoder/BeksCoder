@@ -1,27 +1,33 @@
-# Hello, I'm [Sultan] 👋
+Привет, я Султан 👋
+Обо мне
 
-## About Me
-I'm a Java developer with a passion for clean code and problem-solving. I enjoy building robust, scalable applications and contributing to the open-source community.
+Я разработчик на Java с увлечением к чистому коду и решению проблем. Мне нравится создавать надежные и масштабируемые приложения, а также вносить свой вклад в open-source сообщество.
+Мои навыки
 
-## Skills
-- **Programming Languages**: Java
-- **Frameworks**: Spring Boot, Hibernate, JavaFX
-- **Tools**: Maven, Gradle, Docker, Git, Jenkins
-- **Databases**: MySQL, PostgreSQL, MongoDB
+    Языки программирования:
+    Java
 
-Currently diving into:
-- Java 17 new features
-- Microservices architecture with Spring Cloud
+    Фреймворки:
+    Spring Boot, Hibernate, JavaFX
 
-## Contact Me
-- [LinkedIn](Sultan Isaev)
-- Email: beksons1@gmail.com
+    Инструменты:
+    Maven, Gradle, Docker, Git, Jenkins
 
+    Базы данных:
+    MySQL, PostgreSQL, MongoDB
 
----
+Сейчас изучаю:
 
-## 🌍 Where to Find Me  
+    Новые возможности Java 17
+    Архитектуру микросервисов с Spring Cloud
 
-- 💬 **Telegram**: (https://t.me/SultanXxOne)  
-- 📧 **Email**: beksons1@gmail.com
+📞 Контакты
 
+    LinkedIn: Sultan Isaev
+    Email: beksons1@gmail.com
+    Telegram: @SultanXxOne
+
+🌍 Где меня найти:
+
+    💬 Telegram: @SultanXxOne
+    📧 Email: beksons1@gmail.com
