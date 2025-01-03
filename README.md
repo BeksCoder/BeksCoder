@@ -8,13 +8,13 @@
     Java
 
     Фреймворки:
-    Spring Boot, Hibernate, JavaFX
+    Spring Boot, Hibernate
 
     Инструменты:
-    Maven, Gradle, Docker, Git, Jenkins
+    Maven, Gradle , Git, 
 
     Базы данных:
-    MySQL, PostgreSQL, MongoDB
+    MySQL, PostgreSQL
 
 Сейчас изучаю:
 
