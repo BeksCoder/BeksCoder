@@ -1,34 +1,22 @@
-Привет, я Султан 👋
-Обо мне
+# 🚀 Java Restaurant Management System
 
-Я разработчик на Java с увлечением к чистому коду и решению проблем. Мне нравится создавать надежные и масштабируемые приложения, а также вносить свой вклад в open-source сообщество.
-Мои навыки
+![Java](https://img.shields.io/badge/Java-11-blue)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.7.0-brightgreen)
+![Maven](https://img.shields.io/badge/Maven-3.8.4-orange)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-13-blue)
 
-    Языки программирования:
-    Java
+---
 
-    Фреймворки:
-    Spring Boot, Hibernate
+## 📖 Описание
+Система управления ресторанами. Этот проект позволяет администраторам и пользователям управлять заказами, меню и расписанием.
 
-    Инструменты:
-    Maven, Gradle , Git, 
+---
 
-    Базы данных:
-    MySQL, PostgreSQL
+## 🛠️ Стек технологий
 
-Сейчас изучаю:
-
-    Новые возможности Java 17
-    Архитектуру микросервисов с Spring Cloud
-
-📞 Контакты
-
-    LinkedIn: Sultan Isaev
-    Email: beksons1@gmail.com
-    Telegram: @SultanXxOne
-
-🌍 Где меня найти:
-
-    💬 Telegram: @SultanXxOne
-    📧 Email: beksons1@gmail.com
-    https://www.youtube.com/watch?v=Fv0aB96O-pQ
+| Технология      | Лого                                                                                   |
+|------------------|----------------------------------------------------------------------------------------|
+| **Java**        | ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)     |
+| **Spring Boot** | ![Spring Boot](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg) |
+| **Maven**       | ![Maven](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg) |
+| **PostgreSQL**  | ![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg) |
