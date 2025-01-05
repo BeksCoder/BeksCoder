@@ -1,5 +1,3 @@
-# 🚀 Java Restaurant Management System
-
 ![Java](https://img.shields.io/badge/Java-11-blue)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.7.0-brightgreen)
 ![Maven](https://img.shields.io/badge/Maven-3.8.4-orange)
